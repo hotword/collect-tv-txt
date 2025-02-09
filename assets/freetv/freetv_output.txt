@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250208-04-13-34,url
+20250209-04-13-29,url
 
 
 freetv,#genre#
@@ -995,6 +995,7 @@ cgtn,https://stream1.freetv.fun/cgtn-39.m3u8$[HD]cgtn
 四川卫视高清,https://stream1.freetv.fun/si-chuan-wei-shi-gao-qing-1.ctv$[BD]四川卫视高清
 四川卫视高清,https://stream1.freetv.fun/si-chuan-wei-shi-gao-qing-2.m3u8$[BD]四川卫视高清
 四川康巴卫视,https://stream1.freetv.fun/si-chuan-kang-ba-wei-shi-1.ctv$[BD]四川康巴卫视
+四川康巴卫视,https://stream1.freetv.fun/si-chuan-kang-ba-wei-shi-2.ctv$[BD]四川康巴卫视
 四川影视文艺,https://stream1.freetv.fun/si-chuan-ying-shi-wen-yi-11.ctv$[BD]四川影视文艺
 四川影视文艺,https://stream1.freetv.fun/si-chuan-ying-shi-wen-yi-12.ctv$[BD]四川影视文艺
 四川影视文艺,https://stream1.freetv.fun/si-chuan-ying-shi-wen-yi-4.ctv$[BD]四川影视文艺
@@ -1013,6 +1014,7 @@ cgtn,https://stream1.freetv.fun/cgtn-39.m3u8$[HD]cgtn
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-23.ctv$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-26.ctv$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-6.m3u8$[BD]大湾区卫视
+大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-8.ctv$[BD]大湾区卫视
 大湾区卫视,https://stream1.freetv.fun/da-wan-qu-wei-shi-9.ctv$[BD]大湾区卫视
 大爱,https://stream1.freetv.fun/da-ai-2.m3u8$[HD]大爱
 大爱,https://stream1.freetv.fun/da-ai-3.m3u8$[HD]大爱
@@ -1298,6 +1300,7 @@ cgtn,https://stream1.freetv.fun/cgtn-39.m3u8$[HD]cgtn
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-31.ctv$[BD]广东民生
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-32.ctv$[BD]广东民生
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-4.ctv$[BD]广东民生
+广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-6.ctv$[BD]广东民生
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-8.ctv$[BD]广东民生
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv$[BD]广东民生
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-1.ctv$[BD]广东珠江
@@ -1547,7 +1550,6 @@ cgtn,https://stream1.freetv.fun/cgtn-39.m3u8$[HD]cgtn
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-2.ctv$[BD]杭州生活
 杭州生活,https://stream1.freetv.fun/hang-zhou-sheng-huo-3.ctv$[BD]杭州生活
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-1.ctv$[BD]杭州综合
-杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-2.ctv$[BD]杭州综合
 杭州综合,https://stream1.freetv.fun/hang-zhou-zong-he-3.ctv$[BD]杭州综合
 東森超視,https://stream1.freetv.fun/dong-sen-chao-shi-9.m3u8$[BD]東森超視
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-1.m3u8$[HD]武乡新闻综合
@@ -1605,6 +1607,7 @@ cgtn,https://stream1.freetv.fun/cgtn-39.m3u8$[HD]cgtn
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-18.ctv$[BD]汕头综合
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-3.ctv$[BD]汕头综合
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-4.ctv$[BD]汕头综合
+汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-7.ctv$[BD]汕头综合
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-100.ctv$[BD]江苏卫视
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-103.m3u8$[BD]江苏卫视
 江苏卫视,https://stream1.freetv.fun/jiang-su-wei-shi-109.m3u8$[BD]江苏卫视
@@ -1972,6 +1975,7 @@ cgtn,https://stream1.freetv.fun/cgtn-39.m3u8$[HD]cgtn
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-99.m3u8$[BD]湖北卫视
 湖北卫视,https://stream1.freetv.fun/hu-bei-wei-shi-gao-qing-4.ctv$[BD]湖北卫视高清
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-1.m3u8$[BD]湖北垄上
+湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-13.ctv$[BD]湖北垄上
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-15.m3u8$[BD]湖北垄上
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-17.m3u8$[BD]湖北垄上
 湖北垄上,https://stream1.freetv.fun/hu-bei-long-shang-2.ctv$[BD]湖北垄上
